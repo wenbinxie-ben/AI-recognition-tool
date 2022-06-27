@@ -1,0 +1,2 @@
+./VOC2007/Images/19.jpg
+./VOC2007/Images/8.jpg
