@@ -1,5 +1,5 @@
 # AI-recognition-tool(Demo Version)
-This is the AI recognition tool based on Labelling and YoloV5, you can do labelling, training your own model and detection.If you want to use this tool, you can follow the steps below:
+This is the AI recognition tool based on Labeling and YoloV5, you can do labelling, training your own model and detection.If you want to use this tool, you can follow the steps below:
 1. Move the files to the root of YOLOV5;
 2. Open Main.py file and run;
 3. Place your training dataset in the directory of "./VOC2007/JPEGImages/";
